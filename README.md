@@ -334,3 +334,5 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zhuima/awesome-cloudflare&type=Timeline)](https://star-history.com/#zhuima/awesome-cloudflare&Timeline)
+
+- [CausalLayer MCP](https://github.com/smq9sn5jck-coder/causallayer-mcp) - AI liability attribution server on Workers + KV. Deterministic compliance certificates for EU AI Act.
